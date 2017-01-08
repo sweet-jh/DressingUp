@@ -5,7 +5,7 @@ public class Jeans extends Decorate {
     @Override
     public void show()
     {
-        System.out.println("Wearing Jeans.");
         super.show();
+        System.out.println("Wearing Jeans.");
     }
 }
